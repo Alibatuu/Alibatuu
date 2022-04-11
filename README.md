@@ -1,8 +1,9 @@
-### Hi there 👋
-
-
 <h1 align="center">Hi 👋, I'm Ali Batuhan Öztürk</h1>
-<h3 align="center">A passionate data scientist from Turkey</h3>
+<h3 align="center">A passionate data scientist from Turkey.I am a fourth year Electrical and Electronics
+Engineering student at Eskişehir Osmangazi
+University. I am interested in Data Science, Artificial Intelligence, Machine Learning, Robotics and Image
+Processing. I develop software in the projects which I take part in. I am open to development and I put my theoretical knowledge into practice by making
+projects.</h3>
 
 - 🔭 I’m currently working on **Turkcell Data Science Bootcamp**
 
@@ -16,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-batuhan-öztürk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-batuhan-öztürk/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ali-batuhan-öztürk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-batuhan-öztürk/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
