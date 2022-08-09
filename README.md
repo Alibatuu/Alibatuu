@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Batuhan Öztürk</h1>
-<h3 align="center">A passionate data scientist from Turkey.I am a fourth year Electrical and Electronics
-Engineering student at Eskişehir Osmangazi
-University. I am interested in Data Science, Artificial Intelligence, Machine Learning, Robotics and Image
+<h3 align="center">A passionate data scientist from Turkey.I graduated from Eskişehir Osmangazi
+University, Department of Electrical and Electronics
+Engineering. I am interested in Data Science, Artificial Intelligence, Machine Learning, Robotics and Image
 Processing. I develop software in the projects which I take part in. I am open to development and I put my theoretical knowledge into practice by making
 projects.</h3>
 
