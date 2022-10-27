@@ -5,9 +5,7 @@ Engineering. I am interested in Data Science, Artificial Intelligence, Machine L
 Processing. I develop software in the projects which I take part in. I am open to development and I put my theoretical knowledge into practice by making
 projects.</h3>
 
-- 🔭 I’m currently working on **Turkcell Data Science Bootcamp**
-
-- 🌱 I’m currently learning **data science**
+- 🔭 I’m currently working on **Pegasus Airlines**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alibatuu](https://github.com/Alibatuu)
 
